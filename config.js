@@ -1,0 +1,4 @@
+const CONFIG = {
+  SUPA_URL: "TON_URL_SUPABASE",
+  SUPA_ANON: "TON_ANON_KEY",
+};
